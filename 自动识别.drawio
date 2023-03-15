@@ -1,1 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T07:46:54.611Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="fei115AE5hPFcuhVW6zi" version="21.0.6" type="github"><diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">7Vptc6I6FP41frw7vAjVj9Xa7p3rznZqd/o5Qiq5jQkbwir76zfBpIjxBa4FuR1nbCWHA5jnec7JORl67ni5fmAgjr7REOKeY4XrnnvXcxzbcVzxJS2Ztrj2xrJgKFS2wjBDv6EyWsqaohAmJUdOKeYoLhsDSggMeMkGGKOrstsrxeWnxmABDcMsANi0vqCQRxvrwLMK+1eIFpF+sm2pM0ugnZUhiUBIV1smd9Jzx4xSvjlarscQS/Q0Lpvr7g+cff9hDBJe5QKXpKP7NRsG2dSKyfeXZwc8/KXu8gvgVE34cfL0j7D8eBT/Xv5+/iq+bsXf9Pb5eaImwjONjphTLA85mEvTKIgQDqcgoynXVj0aJRwwrgjuW9KZYgziBOWX3kkLg0HKEvQLPsFk4yitcB0DEqrBK8J4TDFlYkwokQ99pYTP1G/ag4qeImQcrrdMCqUHSJeQs0y46LOaQqXZGzVcFfz72hZtce/q64DS3OL91gUt4kAxU4Mlx2DJYAKGQrZqSBmP6IISgCeFdcRoSkKocSx8ppTGOXLu6F/IeaYoAimnwhTxJVZnTWiPSSqhKQvgEb8bFc2ALeDR+ylHOcOj9DGIARfiKeeAj+bCNbgYpwkXN2fHo+NJxv4oogz9FnoFWPGQrNASAyKSCAh3TCOaZ01p4jlF8gjDV64O55SL5+rQUTo8ECMxRYTnUHgj8RFCHVtfvJ4nfuZYjO1iLD7SnfExJQlnAOVkQ5DwFUw+MI5LQVtXXBWCWQVvv2Lw2oOmgrdvCOYe5qskR0yEoyEaxX5lbaiVDxTw7+H/oqS5lUlbHyTNdlslzetwgu1XTLB+xQTbrfzqG+Eyk9o1+CjQltCtIsThLAY5ICtRi5aRBSxQqHtWbaCr69YpFw6+KePhHhX3mxLxjZl5kIhlx5oDhkRGOIKpdRrTlkC0nQujODBQ/AbeoAwsBkgCAo4ouWbxfXX0nsLZbXftHRrcPcGfqaxjHEskMw5bCYFBXeS6FgK6Gd/CcZRm3cbQ9roGotlrq0Iwhuwtu6aQPSR6l68E7U732lWbbVtBf7rbVut1R6pB22y37xgib63mHrv2FlLHCkHb7EEnxGw9Wyipz4by8mncM9fCA+X0df/n8vs/zh697N0Aam4BMTvaC6z1rRPlVWaq5qZPc0SZ/fIDg1D2CsGhLd5Glhu/LnQ7OfLiKdJsma+KP6dBbk7yZoNsMNWhalfp6mS1qwPgZLWrp9uRatcx++zbIICxSEE+lmvvXGQgfyGPYpAtJVqtJKSzm+9LZyTH7L1fGJLtgxVCDhBOTITlrp5I/PHBsi6kQZpzcBLn+YaU6bxx4Her5Wq4+43h7hi4q83T/d2bhjZmNIBJUgFZELwtcs1/TzlGpG7Org+w3zFlmw3yda09ZyepsbXWMZvwLq+1FZdau+prHMOPXmnzS28ZA9mWg+pzizs/SsPWwrQbvv7OS1Mn/PU+YyGEzS8oZPE+lTOUYm4xfAKlDKvWZHa3arIK7fv/j4z3dylP7gdbnYhb16oXt7v+7cStuYHwCaRiV26mPlwq5wXu4BOArxV0Ok7dTsSp59aL011/vb3/H+NUDIsXqjfuxXvp7uQP</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-15T07:55:03.974Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="Fb0UeNxShLBkwac7u_Rc" version="21.0.6" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="511" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LdSyxT93OLVpm3oe0EAX-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LdSyxT93OLVpm3oe0EAX-1" target="LdSyxT93OLVpm3oe0EAX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LdSyxT93OLVpm3oe0EAX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LdSyxT93OLVpm3oe0EAX-1" target="LdSyxT93OLVpm3oe0EAX-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="370" />
+              <mxPoint x="50" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LdSyxT93OLVpm3oe0EAX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LdSyxT93OLVpm3oe0EAX-1" target="LdSyxT93OLVpm3oe0EAX-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="370" />
+              <mxPoint x="140" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LdSyxT93OLVpm3oe0EAX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LdSyxT93OLVpm3oe0EAX-1" target="LdSyxT93OLVpm3oe0EAX-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="370" />
+              <mxPoint x="325" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LdSyxT93OLVpm3oe0EAX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LdSyxT93OLVpm3oe0EAX-1" target="LdSyxT93OLVpm3oe0EAX-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="370" />
+              <mxPoint x="420" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LdSyxT93OLVpm3oe0EAX-1" value="自动识别模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="300" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LdSyxT93OLVpm3oe0EAX-3" value="用户上传动物图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="400" width="60" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="LdSyxT93OLVpm3oe0EAX-5" value="动物特征信息提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="400" width="60" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="LdSyxT93OLVpm3oe0EAX-6" value="匹配与检索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="400" width="60" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="LdSyxT93OLVpm3oe0EAX-7" value="根据相似度返回动物信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="400" width="70" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="LdSyxT93OLVpm3oe0EAX-8" value="展示数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="400" width="60" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
