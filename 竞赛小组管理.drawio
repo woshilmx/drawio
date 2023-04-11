@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T08:28:58.533Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="4FVNCbudmtzph-lDZj0B" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-11T08:38:31.553Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="0YE0s9_vl36fnTpHAlWh" version="21.1.5" type="github">
   <diagram name="第 1 页" id="9OnakmlHcYKit9j99j7f">
-    <mxGraphModel dx="787" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1620" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,8 +83,11 @@
         <mxCell id="pbWnh9Zu2TdGxRiYwKqQ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbWnh9Zu2TdGxRiYwKqQ-28" target="pbWnh9Zu2TdGxRiYwKqQ-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="pbWnh9Zu2TdGxRiYwKqQ-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbWnh9Zu2TdGxRiYwKqQ-28" target="pbWnh9Zu2TdGxRiYwKqQ-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pbWnh9Zu2TdGxRiYwKqQ-28" value="管理员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="699" width="120" height="35" as="geometry" />
+          <mxGeometry x="450" y="699" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="pbWnh9Zu2TdGxRiYwKqQ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbWnh9Zu2TdGxRiYwKqQ-37" target="pbWnh9Zu2TdGxRiYwKqQ-38">
           <mxGeometry relative="1" as="geometry" />
@@ -249,6 +252,9 @@
         </mxCell>
         <mxCell id="pbWnh9Zu2TdGxRiYwKqQ-89" value="批量下载提交的文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="794" width="60" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="pbWnh9Zu2TdGxRiYwKqQ-91" value="设置竞赛小组开设的类别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="804" width="60" height="195" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
