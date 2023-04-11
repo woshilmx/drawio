@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T08:22:37.268Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="B2hY9pkPDaghBZsjWaRo" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-11T08:24:07.118Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="QxczrnQzZ5fdpwhrWuTa" version="21.1.5" type="github">
   <diagram name="第 1 页" id="9OnakmlHcYKit9j99j7f">
-    <mxGraphModel dx="984" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2295" dy="1327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -173,8 +173,14 @@
         <mxCell id="pbWnh9Zu2TdGxRiYwKqQ-68" value="参赛情况统计模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="820" y="200" width="70" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="pbWnh9Zu2TdGxRiYwKqQ-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbWnh9Zu2TdGxRiYwKqQ-70" target="pbWnh9Zu2TdGxRiYwKqQ-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbWnh9Zu2TdGxRiYwKqQ-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbWnh9Zu2TdGxRiYwKqQ-70" target="pbWnh9Zu2TdGxRiYwKqQ-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pbWnh9Zu2TdGxRiYwKqQ-70" value="参赛情况统计模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="1100" width="120" height="50" as="geometry" />
+          <mxGeometry x="895" y="1100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pbWnh9Zu2TdGxRiYwKqQ-71" value="填写参赛记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="705" y="1260" width="60" height="195" as="geometry" />
@@ -182,16 +188,54 @@
         <mxCell id="pbWnh9Zu2TdGxRiYwKqQ-72" value="修改参赛记录信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="1260" width="60" height="195" as="geometry" />
         </mxCell>
+        <mxCell id="pbWnh9Zu2TdGxRiYwKqQ-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbWnh9Zu2TdGxRiYwKqQ-74" target="pbWnh9Zu2TdGxRiYwKqQ-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbWnh9Zu2TdGxRiYwKqQ-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbWnh9Zu2TdGxRiYwKqQ-74" target="pbWnh9Zu2TdGxRiYwKqQ-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pbWnh9Zu2TdGxRiYwKqQ-74" value="普通用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="725" y="1190" width="130" height="35" as="geometry" />
+          <mxGeometry x="740" y="1190" width="130" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pbWnh9Zu2TdGxRiYwKqQ-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbWnh9Zu2TdGxRiYwKqQ-75" target="pbWnh9Zu2TdGxRiYwKqQ-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1130" y="1240" />
+              <mxPoint x="1000" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbWnh9Zu2TdGxRiYwKqQ-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbWnh9Zu2TdGxRiYwKqQ-75" target="pbWnh9Zu2TdGxRiYwKqQ-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1130" y="1240" />
+              <mxPoint x="1100" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbWnh9Zu2TdGxRiYwKqQ-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbWnh9Zu2TdGxRiYwKqQ-75" target="pbWnh9Zu2TdGxRiYwKqQ-78">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1130" y="1240" />
+              <mxPoint x="1200" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbWnh9Zu2TdGxRiYwKqQ-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pbWnh9Zu2TdGxRiYwKqQ-75" target="pbWnh9Zu2TdGxRiYwKqQ-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1130" y="1240" />
+              <mxPoint x="1300" y="1240" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="pbWnh9Zu2TdGxRiYwKqQ-75" value="管理员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="1190" width="120" height="35" as="geometry" />
+          <mxGeometry x="1070" y="1190" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="pbWnh9Zu2TdGxRiYwKqQ-76" value="查看所有成员的参赛信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="1260" width="60" height="195" as="geometry" />
         </mxCell>
-        <mxCell id="pbWnh9Zu2TdGxRiYwKqQ-77" value="根据不同的条件查询参赛信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pbWnh9Zu2TdGxRiYwKqQ-77" value="根据不同的条件查询参赛信息（例如参加的比赛名称）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="1260" width="60" height="195" as="geometry" />
         </mxCell>
         <mxCell id="pbWnh9Zu2TdGxRiYwKqQ-78" value="查看用户的参赛信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
