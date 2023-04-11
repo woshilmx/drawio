@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T08:21:30.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="NC0dO4hElZQBcNNpbXz1" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-11T08:22:37.268Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="B2hY9pkPDaghBZsjWaRo" version="21.1.5" type="github">
   <diagram name="第 1 页" id="9OnakmlHcYKit9j99j7f">
     <mxGraphModel dx="984" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -190,6 +190,15 @@
         </mxCell>
         <mxCell id="pbWnh9Zu2TdGxRiYwKqQ-76" value="查看所有成员的参赛信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="1260" width="60" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="pbWnh9Zu2TdGxRiYwKqQ-77" value="根据不同的条件查询参赛信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="1260" width="60" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="pbWnh9Zu2TdGxRiYwKqQ-78" value="查看用户的参赛信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="1260" width="60" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="pbWnh9Zu2TdGxRiYwKqQ-79" value="修改用户的参赛信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="1260" width="60" height="195" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
